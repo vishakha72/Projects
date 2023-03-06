@@ -34,4 +34,5 @@ sns.distplot(df['Number of bedrooms'],hist = False,color = 'red')
 sns.distplot(df['House price of unit area'],hist = False, color = 'green')
 
 sns.distplot(df['House price of unit area'], kde = False)
+sns.distplot(df['House price of unit area'], kde = False)
 
